@@ -1,0 +1,1 @@
+Albert är {mood} {smiley} och här får du ett random heltal {talen} och ett random decimaltal {deci}
